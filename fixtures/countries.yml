@@ -1,0 +1,22 @@
+entity: CountryEntity
+items:
+  country1:
+    countryCode: AL
+    continentCode: AF
+    name: Algeria
+    flag: A
+  country2:
+    countryCode: AT
+    continentCode: EU
+    name: Austria
+    flag: A
+  country3:
+    countryCode: PY
+    continentCode: AM
+    name: Paraguay
+    flag: P
+  country4:
+    countryCode: BR
+    continentCode: AM
+    name: Brasil
+    flag: B
