@@ -21,6 +21,6 @@ export default class CountryEntity{
     name: string;
 
     @Field()
-    @Column({length:1, nullable: false})
+    @Column({length:50, nullable: false})
     flag: string;
 }
